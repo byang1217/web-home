@@ -1,0 +1,21 @@
+/* 
+  InfoPlist.strings
+  PhotoAlbum-Diary
+
+  Created by Bin Yang on 7/1/16.
+  Copyright © 2016 Bin Yang. All rights reserved.
+*/
+
+CFBundleDisplayName ="我的家庭云 V9";
+NSLocationAlwaysUsageDescription = "回家时自动上传照片到家庭云";
+
+"STATUS_UPLOADING" = "正在上传";
+"STATUS_UPLOADING_ALBUMS" = "上传相册信息";
+"STATUS_COMPLETE" = "上传完毕";
+"STATUS_CONNECTING" = "链接服务器 ...";
+"STATUS_STOPPED" = "停止上传";
+"STATUS_ERROR" = "连接错误，重新连接 ...";
+
+"ALBUM_RECENTLY_ADDED" = "最近添加";
+"ALBUM_RECENTLY_DELETED" = "最近删除";
+"ALBUM_HIDDEN" = "已隐藏";

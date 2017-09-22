@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__34-[TransferView showUploadOngoing:]_block_invoke:TransferView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.imageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync bindServer:errorStringRef:]:AlbumSync.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync doUpload]:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultAlbumSync">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib LoadAlbums]:MyLib.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync continueUpload]:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "resources">
+            </PersistentString>
+            <PersistentString
+               value = "(PHAssetResource*)resources[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync sendData:params:]:AlbumSync.m">
+      </ContextState>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultAlbumSync">
+            </PersistentString>
+            <PersistentString
+               value = "workQueue">
+            </PersistentString>
+            <PersistentString
+               value = "self.assetTodoArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XMLReader parser:didStartElement:namespaceURI:qualifiedName:attributes:]:XMLReader.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib cancelAllForgroundUploadTasks]:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sessionForeground">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib setUploadCompleteCallback:]:MyLib.m">
+      </ContextState>
+      <ContextState
+         contextName = "semaphore_wait_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultAlbumSync">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SetupView switchChanged:]:SetupView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "collection.localIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "self.setup_sel_albums">
+            </PersistentString>
+            <PersistentString
+               value = "collection.localizedTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyLib_PhotoGetAllPhoto:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "All">
+            </PersistentString>
+            <PersistentString
+               value = "AlbumsArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyLib_SimpleXMLDict:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync getAlbumsTodoList]:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.assetTodoArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__24-[CloudView viewDidLoad]_block_invoke:CloudView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "MyLib_PhotoGetPHAsset(1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SetupView prepareForSegue:sender:]:SetupView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.indexPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CloudView viewDidLoad]:CloudView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "MyLib_PhotoGetPHAsset[0]">
+            </PersistentString>
+            <PersistentString
+               value = "MyLib_PhotoGetPHAsset(0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__24-[CloudView viewDidLoad]_block_invoke.54:CloudView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "asset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib URLSession:task:didCompleteWithError:]:MyLib.m">
+      </ContextState>
+      <ContextState
+         contextName = "__AlbumSync_Start_block_invoke_2:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultAlbumSync.uploadErrorPending">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__82-[MyLib postDataForeground:urlString:urlParams:completionHandler:progressHandler:]_block_invoke:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlParams">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync sendData:params:url:verify:]:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.serverTimeDelta">
+            </PersistentString>
+            <PersistentString
+               value = "self.assetTodoArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController webView:shouldStartLoadWithRequest:navigationType:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "MyLib_PhotoGetSmartAlbums:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "collection.localizedTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib loadAlbums:videoFromDate:]:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultAlbumSync">
+            </PersistentString>
+            <PersistentString
+               value = "[videoFromDate timeIntervalSince1970]">
+            </PersistentString>
+            <PersistentString
+               value = "[asset.creationDate timeIntervalSince1970]">
+            </PersistentString>
+            <PersistentString
+               value = "[imageFromDate timeIntervalSince1970]">
+            </PersistentString>
+            <PersistentString
+               value = "asset.creationDate">
+            </PersistentString>
+            <PersistentString
+               value = "videoFromDate">
+            </PersistentString>
+            <PersistentString
+               value = "[asset.creationDate compare:imageFromDate]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib postDataBackground:urlString:urlParams:]:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.session">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AlbumSync_Start:AlbumSync.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AlbumSync doAlbumsListUpload]:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "collection.assetCollectionType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__30-[AlbumSync uploadInfoNotify:]_block_invoke:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.delegate.statusUpdateHandler">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__27-[AlbumSync continueUpload]_block_invoke:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultAlbumSync">
+            </PersistentString>
+            <PersistentString
+               value = "[PHAssetResource assetResourcesForAsset:asset]">
+            </PersistentString>
+            <PersistentString
+               value = "self.assetTodoArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__AlbumSync_Start_block_invoke:AlbumSync.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[((PHAsset *)defaultAlbumSync.allAssetArray[0]).creationDate timeIntervalSince1970]">
+            </PersistentString>
+            <PersistentString
+               value = "defaultAlbumSync.allAssetArray">
+            </PersistentString>
+            <PersistentString
+               value = "defaultAlbumSync.lastUploadUnixTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TransferView statusUpdateHandler:]:TransferView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.uploadCell.textLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib URLSession:dataTask:didReceiveData:]:MyLib.m">
+      </ContextState>
+      <ContextState
+         contextName = "MyLib_PhotoGetAll:MyLib.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyLib getDataBackground:urlParams:]:MyLib.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XMLReader objectWithData:options:]:XMLReader.m">
+      </ContextState>
+      <ContextState
+         contextName = "__MyLib_SimpleXMLDict_block_invoke:MyLib.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "resultDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

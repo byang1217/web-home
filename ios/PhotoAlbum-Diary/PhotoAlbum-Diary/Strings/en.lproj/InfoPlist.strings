@@ -1,0 +1,21 @@
+/* 
+  InfoPlist.strings
+  PhotoAlbum-Diary
+
+  Created by Bin Yang on 7/1/16.
+  Copyright © 2016 Bin Yang. All rights reserved.
+*/
+
+CFBundleDisplayName ="My Family Cloud V9";
+NSLocationAlwaysUsageDescription = "Upload Photo to family cloud when you are at home automatically";
+
+"STATUS_UPLOADING" = "Uploading";
+"STATUS_UPLOADING_ALBUMS" = "Uploading Albums Info";
+"STATUS_COMPLETE" = "Complete all Upload";
+"STATUS_CONNECTING" = "Connect to server ...";
+"STATUS_STOPPED" = "Upload Stopped";
+"STATUS_ERROR" = "Connect Error, reconnect ...";
+
+"ALBUM_RECENTLY_ADDED" = "Recently Added";
+"ALBUM_RECENTLY_DELETED" = "Recently Deleted";
+"ALBUM_HIDDEN" = "Hidden";

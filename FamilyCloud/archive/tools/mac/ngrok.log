@@ -1,0 +1,98 @@
+{"comp":"Tunnel session","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:16:30.656417134+08:00"}
+{"comp":"web","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:16:30.656444782+08:00"}
+{"comp":"updater","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:16:30.656476947+08:00"}
+{"comp":"consoleui","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:16:30.656493738+08:00"}
+{"addr":"127.0.0.1:4040","lvl":2,"msg":"can't bind default web address, trying alternatives","obj":"web","t":"2016-06-28T18:16:30.65702826+08:00"}
+{"addr":"127.0.0.1:4042","lvl":3,"msg":"starting web service","obj":"web","t":"2016-06-28T18:16:30.65719923+08:00"}
+{"comp":"storage","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:16:30.65644143+08:00"}
+{"err":"dial tcp: i/o timeout","id":"09e8921cd863","lvl":1,"msg":"failed to reconnect session","obj":"csess","t":"2016-06-28T18:16:45.658245619+08:00"}
+{"err":"dial tcp: i/o timeout","id":"09e8921cd863","lvl":1,"msg":"failed to reconnect session","obj":"csess","t":"2016-06-28T18:17:01.658890397+08:00"}
+{"lvl":3,"msg":"tunnel session started","obj":"tunSess","t":"2016-06-28T18:17:04.813708939+08:00"}
+{"id":"09e8921cd863","lvl":3,"msg":"client session established","obj":"csess","t":"2016-06-28T18:17:04.813808332+08:00"}
+{"lvl":3,"msg":"Got quit command","obj":"consoleui","t":"2016-06-28T18:17:13.836450247+08:00"}
+{"comp":"consoleui","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:17:13.836715502+08:00"}
+{"lvl":3,"msg":"requesting shutdown","obj":"controller","t":"2016-06-28T18:17:13.836792324+08:00"}
+{"comp":"storage","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:17:13.836849784+08:00"}
+{"comp":"updater","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:17:13.836866259+08:00"}
+{"err":"\u003cnil\u003e","lvl":3,"msg":"session closing","obj":"tunSess","t":"2016-06-28T18:17:13.836910029+08:00"}
+{"comp":"web","err":"accept tcp 127.0.0.1:4042: use of closed network connection","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:17:13.837014062+08:00"}
+{"comp":"Tunnel session","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:17:13.837436477+08:00"}
+{"err":"reconnecting session closed","id":"09e8921cd863","lvl":3,"msg":"accept failed","obj":"csess","t":"2016-06-28T18:17:13.837521122+08:00"}
+{"err":"not reconnecting, session closed by the client side","lvl":3,"msg":"tunnel session closing permanently","obj":"tunSess","t":"2016-06-28T18:17:13.837496924+08:00"}
+{"lvl":3,"msg":"all component stopped","obj":"controller","t":"2016-06-28T18:17:13.837598867+08:00"}
+{"err":"\u003cnil\u003e","lvl":4,"mem size":52428800,"msg":"init storage","obj":"controller","save_path":"false","t":"2016-06-28T18:17:52.162539707+08:00"}
+{"comp":"updater","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:17:52.165229663+08:00"}
+{"comp":"storage","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:17:52.165277441+08:00"}
+{"lvl":4,"msg":"update check","obj":"updater","t":"2016-06-28T18:17:52.165437699+08:00"}
+{"comp":"consoleui","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:17:52.165310359+08:00"}
+{"comp":"Tunnel session","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:17:52.165272503+08:00"}
+{"comp":"web","lvl":3,"msg":"run component","obj":"controller","t":"2016-06-28T18:17:52.165263239+08:00"}
+{"lvl":4,"msg":"Dialing direct, no proxy","obj":"tunSess","t":"2016-06-28T18:17:52.166945309+08:00"}
+{"addr":"127.0.0.1:4040","lvl":2,"msg":"can't bind default web address, trying alternatives","obj":"web","t":"2016-06-28T18:17:52.167703735+08:00"}
+{"addr":"127.0.0.1:4042","lvl":3,"msg":"starting web service","obj":"web","t":"2016-06-28T18:17:52.167918552+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:52.175200828+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:53.223455849+08:00"}
+{"err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"open stream","obj":"csess","reqtype":"0","t":"2016-06-28T18:17:53.295781134+08:00"}
+{"err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"encode request","obj":"csess","req":"\u0026{Version:[2] ClientId: Extra:0xc208010150}","sid":3,"t":"2016-06-28T18:17:53.296137489+08:00"}
+{"err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"decoded response","obj":"csess","resp":"\u0026{Version:2 ClientId:9e1389d48b658380136b9603d6b005f5 Error: Extra:map[Version:2.1.1]}","sid":3,"t":"2016-06-28T18:17:53.480538527+08:00"}
+{"lvl":3,"msg":"tunnel session started","obj":"tunSess","t":"2016-06-28T18:17:53.480971627+08:00"}
+{"id":"c959a9bdafce","lvl":3,"msg":"client session established","obj":"csess","t":"2016-06-28T18:17:53.481038119+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"open stream","obj":"csess","reqtype":"1","t":"2016-06-28T18:17:53.481350344+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"encode request","obj":"csess","req":"\u0026{Id: ClientId: Proto:https Opts:0xc2083ac000 Extra:0xc2083aa000}","sid":7,"t":"2016-06-28T18:17:53.481655139+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:53.523876784+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"decoded response","obj":"csess","resp":"\u0026{ClientId:59c355fac2404fbda129f8ca9b7c9a8c URL:https://13397c79.ngrok.io Proto:https Opts:map[Hostname:13397c79.ngrok.io Auth: Subdomain:] Error: Extra:map[Token:7d733088f6c1869c659ca1f94e0b9c2344918c1f0cb69d187885a48b31dca4f2]}","sid":7,"t":"2016-06-28T18:17:53.676212492+08:00"}
+{"err":"\u003cnil\u003e","lvl":4,"msg":"start tunnel listen","name":"command_line","obj":"tunSess","opts":"\u0026{Hostname: Auth: Subdomain:}","proto":"https","t":"2016-06-28T18:17:53.676580417+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"open stream","obj":"csess","reqtype":"1","t":"2016-06-28T18:17:53.676791897+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"encode request","obj":"csess","req":"\u0026{Id: ClientId: Proto:http Opts:0xc208389b90 Extra:0xc2083b6a20}","sid":9,"t":"2016-06-28T18:17:53.677001594+08:00"}
+{"lvl":4,"msg":"no update available","obj":"updater","t":"2016-06-28T18:17:53.793811559+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","err":"\u003cnil\u003e","id":"9f2efc74bd3e","lvl":4,"msg":"decoded response","obj":"csess","resp":"\u0026{ClientId:c5ca74dc526533096982ebf7c3c05524 URL:http://13397c79.ngrok.io Proto:http Opts:map[Hostname:13397c79.ngrok.io Auth: Subdomain:] Error: Extra:map[Token:7d733088f6c1869c659ca1f94e0b9c2344918c1f0cb69d187885a48b31dca4f2]}","sid":9,"t":"2016-06-28T18:17:53.862537002+08:00"}
+{"err":"\u003cnil\u003e","lvl":4,"msg":"start tunnel listen","name":"command_line (http)","obj":"tunSess","opts":"\u0026{Hostname:13397c79.ngrok.io Auth: Subdomain:}","proto":"http","t":"2016-06-28T18:17:53.862896604+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:53.873490132+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:54.225448013+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:55.173178922+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:56.173565787+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:57.223508712+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:58.223574734+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:17:59.173589604+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:00.223641677+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:01.223607377+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:02.172828812+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:03.223610334+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","id":"9f2efc74bd3e","latency_ms":178,"lvl":4,"msg":"heartbeat received","obj":"csess","t":"2016-06-28T18:18:03.479317207+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:04.222353352+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:05.223681804+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:06.221847767+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:07.172789439+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:08.223707602+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:09.173262314+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:10.223867537+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:11.223741582+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:12.172807122+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:13.225575397+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","id":"9f2efc74bd3e","latency_ms":176,"lvl":4,"msg":"heartbeat received","obj":"csess","t":"2016-06-28T18:18:13.658514599+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:14.223900544+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:15.223933434+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:16.223924442+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:17.224000207+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:18.223952472+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:19.174878477+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:20.222113287+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:21.225318079+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:22.173015827+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:23.174417729+08:00"}
+{"clientid":"9e1389d48b658380136b9603d6b005f5","id":"9f2efc74bd3e","latency_ms":177,"lvl":4,"msg":"heartbeat received","obj":"csess","t":"2016-06-28T18:18:23.835830592+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:24.224110767+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:25.224032197+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:26.174708267+08:00"}
+{"lvl":4,"msg":"waiting for update","obj":"consoleui","t":"2016-06-28T18:18:27.224149012+08:00"}
+{"lvl":3,"msg":"Got quit command","obj":"consoleui","t":"2016-06-28T18:18:28.142158904+08:00"}
+{"comp":"consoleui","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:18:28.142421147+08:00"}
+{"lvl":3,"msg":"requesting shutdown","obj":"controller","t":"2016-06-28T18:18:28.142499264+08:00"}
+{"comp":"updater","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:18:28.142560839+08:00"}
+{"err":"\u003cnil\u003e","lvl":3,"msg":"session closing","obj":"tunSess","t":"2016-06-28T18:18:28.142574587+08:00"}
+{"comp":"storage","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:18:28.142625169+08:00"}
+{"comp":"web","err":"accept tcp 127.0.0.1:4042: use of closed network connection","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:18:28.142714159+08:00"}
+{"comp":"Tunnel session","err":"\u003cnil\u003e","lvl":3,"msg":"component stopped","obj":"controller","t":"2016-06-28T18:18:28.143064994+08:00"}
+{"err":"reconnecting session closed","id":"c959a9bdafce","lvl":3,"msg":"accept failed","obj":"csess","t":"2016-06-28T18:18:28.143105124+08:00"}
+{"err":"not reconnecting, session closed by the client side","lvl":3,"msg":"tunnel session closing permanently","obj":"tunSess","t":"2016-06-28T18:18:28.143116314+08:00"}
+{"lvl":3,"msg":"all component stopped","obj":"controller","t":"2016-06-28T18:18:28.145057799+08:00"}

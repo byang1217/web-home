@@ -1,0 +1,8 @@
+authtoken: 
+log_level: debug
+log_format: json
+log: ngrok.log
+tunnels:
+  website:
+    addr: 10080
+    proto: http

@@ -1,0 +1,144 @@
+.top {
+	position: fixed;
+	top: 0px;
+	z-index: 999;
+	height: 40px;
+	width: 100%;
+	line-height: 36px;
+	font-weight: bold;
+	font-size: 36px;
+	text-overflow: ellipsis;
+	overflow:hidden;
+	background-image: url("../img/title_bg.jpg");
+}
+
+.top_popup_menu{
+	display: none;
+	position: fixed;
+	top: 40px;
+	width: 100%;
+	height: auto;
+	background-color: gray;
+	z-index:100;
+	-moz-opacity: 0.9;
+	opacity:.90;
+	filter: alpha(opacity=90);
+}
+
+.full_screen_window{
+	position: fixed;
+	top: 0px;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	z-index:1000;
+	overflow: scroll;
+}
+
+.top2 {
+	position: fixed;
+	top: 40px;
+	z-index: 9999;
+	height: 64px;
+	width: 100%;
+	font-weight: bold;
+	font-size: 18px;
+	background-image: url("../img/white_bg.jpg");
+}
+
+.page_container_2 {
+	width: 100%;
+	padding-top: 104px;
+	z-index: 99;
+	font-size: 24px;
+}
+
+.page_container {
+	width: 100%;
+	padding-top: 40px;
+	z-index: 99;
+	font-size: 24px;
+}
+
+.page_separator {
+	width: 100%;
+	height: 12px;
+}
+
+.page_line_hl {
+	width: 100%;
+	margin: auto;
+	height: 30px;
+	line-height: 24px;
+	font-size: 24px;
+	color: red;
+	font-weight: bold;
+	white-space:nowrap;
+	text-overflow: ellipsis;
+	overflow:hidden;
+}
+
+.page_line {
+	width: 100%;
+	margin: auto;
+	height: 30px;
+	line-height: 24px;
+	font-size: 24px;
+}
+
+.list_line {
+	width: 100%;
+	height: 60px;
+	line-height: 15px;
+	font-size: 15px;
+	overflow: hidden;   
+}
+
+.edit_upload {
+	width: 100%;
+	height: 160px;
+	line-height: 16px;
+	font-size: 16px;
+	overflow: hidden;   
+}
+
+.huge_block {
+        float: left;
+        width: 96%;
+        margin: 1%;
+	text-align: center;
+	word-break: break-all;
+}
+
+.icon_block {
+        float: left;
+        width: 26px;
+        height: 26px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 4px;
+        margin-top: 4px;
+	text-align: center;
+	word-break: break-all;
+}
+
+.thumb_block {
+        float: left;
+        width: 23%;
+        margin: 1%;
+	text-align: center;
+	word-break: break-all;
+}
+
+.thumb_icon_block {
+        float: right;
+        width: 18px;
+        height: 18px;
+        margin-left: 4px;
+        margin-right: 0px;
+        margin-bottom: 8px;
+        margin-top: auto;
+	text-align: center;
+	word-break: break-all;
+}
+
